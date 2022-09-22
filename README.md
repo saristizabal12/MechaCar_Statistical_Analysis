@@ -1,2 +1,2 @@
 # MechaCar_Statistical_Analysis
-Using R to Find
+Using R to find the interpretation of car data analysis
